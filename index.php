@@ -47,6 +47,51 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="model red">
+                        <h3>Módulo 02 - Tipos</h3>
+                        <ul>
+                            <li>
+                                <a href="exercise.php?dir=types&file=int">
+                                    Tipo Inteiro
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=types&file=float">
+                                    Tipo Float
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=types&file=arithmetic">
+                                    Operações Aritméticas
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=types&file=precedence_challenge">
+                                    Desafio Precedência
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=types&file=string">
+                                    Tipo String
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=types&file=string_challenge">
+                                    Desafio String
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=types&file=boolean">
+                                    Tipo Booleano
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=types&file=conversions">
+                                    Conversões
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
         </main>
