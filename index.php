@@ -92,6 +92,51 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="model blue">
+                        <h3>Módulo 03 - Variáveis</h3>
+                        <ul>
+                            <li>
+                                <a href="exercise.php?dir=variables&file=basic">
+                                    Variávies
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=variables&file=equation_challenge">
+                                    Desafio Equação
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=variables&file=assignments">
+                                    Atribuições
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=variables&file=interpolation">
+                                    Interpolação
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=variables&file=variable_variables">
+                                    Variáveis variáveis
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=variables&file=variable_variables_challenge">
+                                    Desafio variáveis variáveis
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=variables&file=reference">
+                                    Valor vs Referência
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=variables&file=constants">
+                                    Constantes
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
         </main>
