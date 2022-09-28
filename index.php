@@ -137,6 +137,51 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="model purple">
+                        <h3>Módulo 04 - Controle</h3>
+                        <ul>
+                            <li>
+                                <a href="exercise.php?dir=control&file=if_else">
+                                    If Else
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=control&file=relational">
+                                    Operadores Relacionais
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=control&file=pi_challenge">
+                                    Desafio PI
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=control&file=logical">
+                                    Operadores Lógicos
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=control&file=logical_challenge">
+                                    Desafio Op. Lógicos
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=control&file=ternary">
+                                    Operador Ternário
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=control&file=switch">
+                                    Switch
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=control&file=switch_challenge">
+                                    Desafio Switch
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
         </main>

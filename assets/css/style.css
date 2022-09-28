@@ -133,3 +133,11 @@ body{
 
 .model.dark-purple { border: 2px solid #4a148c; }
 .model.dark-purple > h3 { background-color: #4a148c; }
+
+
+p.division{
+    margin-bottom: 0px;
+}
+hr{
+    margin-top: 0px;
+}
