@@ -12,7 +12,7 @@
     <body class="exercise">
         <header class="header">
             <h1>Curso PHP</h1>
-            <h2>Visialização do Exercício</h2>
+            <h2>Visualização do Exercício</h2>
         </header>
 
         <nav class="navigation">
