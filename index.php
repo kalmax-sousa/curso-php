@@ -242,6 +242,21 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="model dark-green">
+                        <h3>Módulo 06 - Repetições</h3>
+                        <ul>
+                            <li>
+                                <a href="exercise.php?dir=loops&file=for">
+                                    For
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=loops&file=for_challenge">
+                                    Desafio For
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
         </main>
