@@ -255,6 +255,36 @@
                                     Desafio For
                                 </a>
                             </li>
+                            <li>
+                                <a href="exercise.php?dir=loops&file=foreach">
+                                    ForEach
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=loops&file=break-continue">
+                                    Break/Continue
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=loops&file=print-challenge">
+                                    Desafio Impressão
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=loops&while-dowhile">
+                                    While/DoWhile
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=loops&table-challenge">
+                                    Desafio Tabela 1
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=loops&table-challenge2">
+                                    Desafio Tabela 2
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </nav>
