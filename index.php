@@ -287,6 +287,71 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="model red-green">
+                        <h3>Módulo 07 - Funções</h3>
+                        <ul>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=scope">
+                                    Escopo
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=args-return">
+                                    Argumentos e Retorno
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=palindrome-challenge">
+                                    Desafio Palíndromo
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=variabel-args">
+                                    Argumentos Variáveis
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=default-args">
+                                    Argumentos Padrões
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=types">
+                                    Declaração de Tipos
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=anonymous">
+                                    Função Anônima
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=closure-callable">
+                                    Closure e Callable
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=recursion">
+                                    Recursão
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=recursive-search">
+                                    Busca Recursiva
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=returning-function">
+                                    Retornando uma Função
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=functions&file=map-filter">
+                                    Map e Filter
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
         </main>
