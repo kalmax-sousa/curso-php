@@ -365,6 +365,66 @@
                                     Desafio Data
                                 </a>
                             </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=constructor-destructor">
+                                    Construtor e Destrutor
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=heritage">
+                                    Herança
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=visibility">
+                                    Modificadores de Visibilidade
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=static">
+                                    Membros da Classe (Static)
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=interface">
+                                    Interface
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=abstract">
+                                    Classe Abstrata
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=seven-errors-challenge">
+                                    Desafio 7 erros
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=final">
+                                    Modificador Final
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=traits1">
+                                    Traits #01
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=traits2">
+                                    Traits #02
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=magic-methods">
+                                    Métodos Mágicos
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=oo&file=polymorphism">
+                                    Polimorfismo
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </nav>
