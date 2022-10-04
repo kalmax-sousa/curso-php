@@ -5,15 +5,15 @@ $soma1 = function($a, $b){
     return $a + $b;
 };
 
-$soma2 = function($a, $b){
+function soma2 ($a, $b){
     return $a + $b;
 };
 
 echo $soma1(1, 3) . ' ';
-echo is_callable($soma1) ? 'Sim' : 'Não' . '<br>';
+echo is_callable($soma1) ? 'Sim' : 'Não', '<br>';
 
-echo $soma2(1, 3) . ' ';
-echo is_callable($soma2) ? 'Sim' : 'Não' . '<br>';
+echo soma2(1, 3) . ' ';
+echo is_callable(soma2) ? 'Sim' : 'Não', '<br>';
 
 var_dump($soma1);
 
@@ -33,4 +33,4 @@ function executar2($a, $b, $op, Closure $funcao){
 }
 echo '<br>';
 executar2(100, 100, '+', $soma1);
-executar2(3000, 3000, '+', soma2);
+//executar2(3000, 3000, '+', soma2)

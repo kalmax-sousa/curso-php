@@ -271,17 +271,17 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="exercise.php?dir=loops&while-dowhile">
+                                <a href="exercise.php?dir=loops&file=while-dowhile">
                                     While/DoWhile
                                 </a>
                             </li>
                             <li>
-                                <a href="exercise.php?dir=loops&table-challenge">
+                                <a href="exercise.php?dir=loops&file=table-challenge">
                                     Desafio Tabela 1
                                 </a>
                             </li>
                             <li>
-                                <a href="exercise.php?dir=loops&table-challenge2">
+                                <a href="exercise.php?dir=loops&file=table-challenge2">
                                     Desafio Tabela 2
                                 </a>
                             </li>
@@ -306,7 +306,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="exercise.php?dir=functions&file=variabel-args">
+                                <a href="exercise.php?dir=functions&file=variable-args">
                                     Argumentos Variáveis
                                 </a>
                             </li>
@@ -356,12 +356,12 @@
                         <h3>Módulo 08 - Paradigma 0.0.</h3>
                         <ul>
                             <li>
-                                <a href="exercise.php?dir=00&file=classe">
+                                <a href="exercise.php?dir=oo&file=classe">
                                     Primeira Classe
                                 </a>
                             </li>
                             <li>
-                                <a href="exercise.php?dir=00&file=Date">
+                                <a href="exercise.php?dir=oo&file=Date">
                                     Desafio Data
                                 </a>
                             </li>

@@ -2,8 +2,8 @@
 
 <?php
 function isPalindrome($name){
-    $name = $name.strtolower();
-    for($i = 0, $j = strlen($name); $i > $j; $i++, $j--){
+    $name = strtolower($name);
+    for($i = 0, $j = strlen($name) - 1; $j > $i; $i++, $j--){
         if($name[$i] !== $name[$j])
             return 'Não';
     }
@@ -18,6 +18,7 @@ echo isPalindrome("bola") . '<br>';
 
 
 function palindromoSimples($palavra){
+    $palavra = strtolower($palavra);
     return $palavra === strrev($palavra) ? 'Sim' : 'Não';
 }
 

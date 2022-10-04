@@ -1,7 +1,7 @@
 <div class="title">Argumentos Variáveis</div>
 
 <?php
-function some($a, $b){
+function soma($a, $b){
     return $a + $b;
 }
 
