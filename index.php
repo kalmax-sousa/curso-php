@@ -287,7 +287,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="model red-green">
+                    <div class="model dark-red">
                         <h3>Módulo 07 - Funções</h3>
                         <ul>
                             <li>
@@ -348,6 +348,21 @@
                             <li>
                                 <a href="exercise.php?dir=functions&file=map-filter">
                                     Map e Filter
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="model dark-blue">
+                        <h3>Módulo 08 - Paradigma 0.0.</h3>
+                        <ul>
+                            <li>
+                                <a href="exercise.php?dir=00&file=classe">
+                                    Primeira Classe
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=00&file=Date">
+                                    Desafio Data
                                 </a>
                             </li>
                         </ul>
