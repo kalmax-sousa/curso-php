@@ -427,6 +427,41 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="model dark-purple">
+                        <h3>Módulo 09 - Includes</h3>
+                        <ul>
+                            <li>
+                                <a href="exercise.php?dir=includes&file=include">
+                                    Include
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=includes&file=include-function">
+                                    Include Função
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=includes&file=include-require">
+                                    Include/Require
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=includes&file=include-return">
+                                    Include com Retorno
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=includes&file=include-once">
+                                    Include Once
+                                </a>
+                            </li>
+                            <li>
+                                <a href="exercise.php?dir=includes&file=module-challenge">
+                                    Desafio Módulo
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
         </main>
