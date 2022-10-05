@@ -444,4 +444,24 @@
             </li>
         </ul>
     </div>
+    <div class="model dark-orange">
+        <h3>Módulo 10 - Namespace</h3>
+        <ul>
+            <li>
+                <a href="exercise.php?dir=namespace&file=basic">
+                    Exemplo Básico
+                </a>
+            </li>
+            <li>
+                <a href="exercise.php?dir=namespace&file=subnamespace">
+                    Sub-Namespace
+                </a>
+            </li>
+            <li>
+                <a href="exercise.php?dir=namespace&file=use-as">
+                    Use/As
+                </a>
+            </li>
+        </ul>
+    </div>
 </nav>
