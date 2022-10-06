@@ -464,4 +464,29 @@
             </li>
         </ul>
     </div>
+    <div class="model green">
+        <h3>Módulo 11 - Tratamento de Erros</h3>
+        <ul>
+            <li>
+                <a href="exercise.php?dir=error-handling&file=try-catch">
+                    Try/Catch
+                </a>
+            </li>
+            <li>
+                <a href="exercise.php?dir=error-handling&file=custom-errors">
+                    Erros Personalizados
+                </a>
+            </li>
+            <li>
+                <a href="exercise.php?dir=error-handling&file=intdiv-challenge-test">
+                    Desafio intdiv
+                </a>
+            </li>
+            <li>
+                <a href="exercise.php?dir=error-handling&file=error-handler">
+                    Error Handler
+                </a>
+            </li>
+        </ul>
+    </div>
 </nav>
