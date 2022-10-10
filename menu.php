@@ -489,4 +489,19 @@
             </li>
         </ul>
     </div>
+    <div class="model red">
+        <h3>Módulo 12 - Sessão e Cookies</h3>
+        <ul>
+            <li>
+                <a href="exercise.php?dir=session-cookies&file=basic">
+                    Sessão
+                </a>
+            </li>
+            <li>
+                <a href="exercise.php?dir=session-cookies&file=session-management">
+                    Gerenciamento de Sessão
+                </a>
+            </li>
+        </ul>
+    </div>
 </nav>
